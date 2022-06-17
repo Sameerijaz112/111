@@ -1,0 +1,25 @@
+header{
+    background-image: url(nathan-da-silva-k-rKfqSm4L4-unsplash\ \(2\).jpg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+.nav-link{
+    color: whitesmoke !important;
+} 
+.navbar-brand{
+    color: white !important;
+}
+
+img{
+    height: 400px;
+    width: 400px;
+}
+strong{
+    color: blue;
+}
+button{
+    margin-bottom: 20px;
+}
